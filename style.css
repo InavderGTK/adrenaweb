@@ -19,15 +19,11 @@ body{
 }
 
 header{
-    display: flex;
-    flex-direction: row;
 
 }
 
 .margin{
     padding-top: 0;
     padding-bottom: 0;
-    display: flex;
-    flex-direction: row;
-
+    
 }
